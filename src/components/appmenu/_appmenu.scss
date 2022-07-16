@@ -1,0 +1,37 @@
+#appmenu {
+	position: fixed;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	// background-color: white;
+	z-index: 1;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	padding-top: 1rem;
+}
+
+.appmenu__container {
+	background: linear-gradient(45deg, transparent, darkblue, transparent);
+	height: 70%;
+	width: 80%;
+	border-radius: 2rem;
+	padding: 3rem;
+
+	
+}
+
+.multiple-divs__container {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	gap: 2rem;
+}
+
+.empty-box-small {
+	height: 40px;
+	width: 40px;
+	background-color: lightsalmon;
+}

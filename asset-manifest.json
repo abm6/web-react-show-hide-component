@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/web-react-show-hide-component/static/css/main.3a071ebc.css",
+    "main.js": "/web-react-show-hide-component/static/js/main.f979e190.js",
+    "index.html": "/web-react-show-hide-component/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3a071ebc.css",
+    "static/js/main.f979e190.js"
+  ]
+}

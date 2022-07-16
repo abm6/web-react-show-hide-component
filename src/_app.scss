@@ -1,0 +1,23 @@
+.btn{
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+	bottom: 1rem;
+    z-index: 10;
+    border: 2px solid salmon;
+    padding: 1rem;
+    background-color: transparent;
+    color: salmon;
+
+    &-active{
+        background-color: salmon;
+        color: white;
+    }
+}
+
+.empty-box {
+    height: 600px;
+    background-color: rgb(197, 255, 236);
+    margin: 2rem;
+}
+
